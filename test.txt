@@ -1,0 +1,2 @@
+writing something into this folder
+then something elseWrting another line from th terminal
